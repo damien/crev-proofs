@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-03-09T12:15:48.849155-07:00"
+from:
+  id-type: crev
+  id: QvytWMr6bY-Un32sC0KujHGiMiV1cWt8BdmQAW-o50I
+  url: "https://github.com/damien/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Trust for FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE https://github.com/dpc/crev-proofs
+----- SIGN CREV PROOF -----
+hq1m7i9-_xNoj_urB_wt_smubYcbuxWHXdqHn5u2mwHujfRZJPPU5CnWtm7i5pdnxN0xdYfpbNI2v4ME6YJgDg
+----- END CREV PROOF -----
+
